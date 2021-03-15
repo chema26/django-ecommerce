@@ -1,4 +1,5 @@
-# django-ecommerce
+# Django E-commerce
+
 Project Django Ecommerce
 
 ## Versions
